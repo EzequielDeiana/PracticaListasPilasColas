@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1695249746 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u1-10\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"estadio.h"
+	"persona.h"
+
+1695249780 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u1-10\estadio.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"persona.h"
+	"estadio.h"
+
+1695249640 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u1-10\persona.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"estadio.h"
+	"persona.h"
+
+1695249381 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u1-10\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1695237070 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u1-10\lista.h
+
+1695243161 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u1-10\estadio.h
+
+1695248791 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u1-10\persona.h
+	"lista.h"
+

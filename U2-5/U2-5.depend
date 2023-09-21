@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1695323226 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u2-5\estudiante.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cola.h"
+	"estudiante.h"
+
+1695323425 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u2-5\guarani.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cola.h"
+	"estudiante.h"
+	"guarani.h"
+
+1695323251 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u2-5\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cola.h"
+	"estudiante.h"
+	"guarani.h"
+
+1695323210 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u2-5\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+
+1695322564 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u2-5\cola.h
+
+1695321340 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u2-5\estudiante.h
+	"cola.h"
+
+1695323418 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u2-5\guarani.h
+

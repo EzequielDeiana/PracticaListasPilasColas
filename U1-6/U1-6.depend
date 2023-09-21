@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1695090985 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u1-6\equipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"equipo.h"
+
+1695091104 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u1-6\jugador.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"equipo.h"
+	"jugador.h"
+	"lista.h"
+
+1695090610 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u1-6\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"equipo.h"
+	"jugador.h"
+
+1695088650 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u1-6\lista.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1695089853 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u1-6\lista.h
+
+1695086316 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u1-6\equipo.h
+	"lista.h"
+	"jugador.h"
+
+1695088953 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u1-6\jugador.h
+	"lista.h"
+	"equipo.h"
+

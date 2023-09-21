@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1695273270 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u2-1-colas\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+
+1695271168 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u2-1-colas\cola.h
+
+1695272795 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u2-1-colas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+

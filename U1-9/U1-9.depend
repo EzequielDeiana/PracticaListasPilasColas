@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1695173630 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u1-9\alumno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"alumno.h"
+
+1695173500 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u1-9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"alumno.h"
+
+1695177316 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u1-9\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"alumno.h"
+
+1695173653 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u1-9\lista.h
+
+1695173650 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u1-9\alumno.h
+	"lista.h"
+
+1695178950 source:c:\users\gasto\pictures\u1-9\alumno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"alumno.h"
+
+1695173653 c:\users\gasto\pictures\u1-9\lista.h
+
+1695173650 c:\users\gasto\pictures\u1-9\alumno.h
+	"lista.h"
+
+1695178815 source:c:\users\gasto\pictures\u1-9\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"alumno.h"
+
+1695178921 source:c:\users\gasto\pictures\u1-9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"alumno.h"
+
+1695178950 source:c:\users\ezequ\desktop\nuevo\u1-9\alumno.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"alumno.h"
+
+1695173653 c:\users\ezequ\desktop\nuevo\u1-9\lista.h
+
+1695173650 c:\users\ezequ\desktop\nuevo\u1-9\alumno.h
+	"lista.h"
+
+1695178815 source:c:\users\ezequ\desktop\nuevo\u1-9\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"alumno.h"
+
+1695178921 source:c:\users\ezequ\desktop\nuevo\u1-9\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"lista.h"
+	"alumno.h"
+

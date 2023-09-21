@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1695318898 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u2-3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+	"moneda.h"
+
+1695318756 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u2-3\moneda.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"pila.h"
+	"moneda.h"
+
+1695318128 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u2-3\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1695317568 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u2-3\pila.h
+
+1695318512 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u2-3\moneda.h
+
