@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1652038919 source:c:\users\nico_\desktop\arbolbinario\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1652038445 c:\users\nico_\desktop\arbolbinario\arbol.h
+
+1652038943 source:c:\users\nico_\desktop\arbolbinario\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1652306694 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\arbol binario\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1652306700 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\arbol binario\arbol.h
+
+1652306696 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\arbol binario\main.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1652306694 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u3-1\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1652306700 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u3-1\arbol.h
+
+1695353153 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u3-1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"arbol.h"
+
+1695355918 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u3-3\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1695355737 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u3-3\arbol.h
+
+1695355762 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\u3-3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"arbol.h"
+
