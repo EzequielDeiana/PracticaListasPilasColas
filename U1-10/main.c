@@ -15,12 +15,12 @@ int main()
     insertar(listaMotivos1,"Huir, huir",0);
 
     insertar(listaMotivos2,"No se",0);
-    insertar(listaMotivos2,"Preguntale a tu mama",0);
+    insertar(listaMotivos2,"A pasarlo bien",0);
     insertar(listaMotivos2,"Me invito un amigo",0);
 
-    insertar(listaMotivos3,"Que concha?",0);
+    insertar(listaMotivos3,"Que cancha?",0);
     insertar(listaMotivos3,"Que no era el ballet?",0);
-    insertar(listaMotivos3,"Mi jermu me va a matar",0);
+    insertar(listaMotivos3,"Coso",0);
 
     PersonaPtr persona1 = crearPersona(listaMotivos1);
     PersonaPtr persona2 = crearPersona(listaMotivos2);
