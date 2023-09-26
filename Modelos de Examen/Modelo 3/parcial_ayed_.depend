@@ -54,23 +54,24 @@
 1695447024 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 1\estadio.h
 	"lista.h"
 
-1693169783 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 3\lista.c
+1695707860 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 3\lista.c
 	"lista.h"
 	<stdlib.h>
 	<string.h>
 
-1651638646 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 3\lista.h
+1695707843 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 3\lista.h
 
-1695450526 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 3\main.c
+1695711357 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 3\main.c
 	<stdio.h>
 	<stdlib.h>
 	"lista.h"
+	"cola.h"
 	"miembro.h"
 	"banda.h"
 
 1695450923 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 3\miembro.h
 
-1695450664 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 3\banda.h
+1695708704 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 3\banda.h
 
 1695451235 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 3\miembro.c
 	<stdio.h>
@@ -79,10 +80,18 @@
 	"miembro.h"
 	"banda.h"
 
-1695451047 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 3\banda.c
+1695709079 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 3\banda.c
 	<stdio.h>
 	<stdlib.h>
+	<string.h>
 	"lista.h"
 	"miembro.h"
 	"banda.h"
+
+1695711276 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 3\cola.c
+	<stdio.h>
+	<stdlib.h>
+	"cola.h"
+
+1695711037 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 3\cola.h
 

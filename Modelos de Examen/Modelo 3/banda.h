@@ -15,4 +15,14 @@ void setNombreBanda(BandaPtr b, char nombre[20]);
 
 void destruir(BandaPtr b);
 
+Lista getListaBanda(BandaPtr b);
+
+void mostrarMiembros(Lista lista);
+
+Lista copiarListaBanda(Lista lista);
+
+void ordenarListaBanda(BandaPtr b);
+
+void buscarMiembro(BandaPtr b);
+
 #endif // BANDA_H_INCLUDED
