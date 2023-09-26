@@ -1,0 +1,132 @@
+# depslib dependency file v1.0
+1693786723 source:c:\users\nico_\desktop\parcial_ayed_\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1693789388 source:c:\users\nico_\desktop\parcial_ayed_\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"cliente.h"
+	"banco.h"
+
+1693786793 source:c:\users\nico_\desktop\parcial_ayed_\banco.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"banco.h"
+
+1693786793 c:\users\nico_\desktop\parcial_ayed_\banco.h
+
+1693786679 c:\users\nico_\desktop\parcial_ayed_\cliente.h
+
+1693169783 source:c:\users\nico_\desktop\parcial_ayed_\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+
+1651638646 c:\users\nico_\desktop\parcial_ayed_\lista.h
+
+1693169783 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 1\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+
+1651638646 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 1\lista.h
+
+1693789429 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"cliente.h"
+	"banco.h"
+
+1695445061 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 1\asistentes.c
+
+1695446854 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 1\estadio.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+	"estadio.h"
+
+1695447024 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 1\estadio.h
+	"lista.h"
+
+1693169783 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 3\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+
+1651638646 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 3\lista.h
+
+1695450526 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 3\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"miembro.h"
+	"banda.h"
+
+1695450923 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 3\miembro.h
+
+1695450664 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 3\banda.h
+
+1695451033 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 3\miembro.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"miembro.h"
+	"banda.h"
+
+1695451047 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 3\banda.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"miembro.h"
+	"banda.h"
+
+1695451047 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 4\banda.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"miembro.h"
+	"banda.h"
+
+1651638646 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 4\lista.h
+
+1695450923 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 4\miembro.h
+
+1695450664 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 4\banda.h
+
+1693169783 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 4\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+
+1695451235 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 4\miembro.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"miembro.h"
+	"banda.h"
+
+1695507654 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 4\cancion.c
+
+1695507602 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 4\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+
+1695507683 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 4\disco.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"cancion.h"
+	"disco.h"
+
+1695507717 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 4\cancion.h
+
+1695507671 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 4\disco.h
+	"lista.h"
+

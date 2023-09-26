@@ -31,14 +31,10 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="banco.c">
+		<Unit filename="banda.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="banco.h" />
-		<Unit filename="cliente.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="cliente.h" />
+		<Unit filename="banda.h" />
 		<Unit filename="lista.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -46,10 +42,10 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="pila.c">
+		<Unit filename="miembro.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="pila.h" />
+		<Unit filename="miembro.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1693786723 source:c:\users\nico_\desktop\parcial_ayed_\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1693789388 source:c:\users\nico_\desktop\parcial_ayed_\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"cliente.h"
+	"banco.h"
+
+1693786793 source:c:\users\nico_\desktop\parcial_ayed_\banco.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"banco.h"
+
+1693786793 c:\users\nico_\desktop\parcial_ayed_\banco.h
+
+1693786679 c:\users\nico_\desktop\parcial_ayed_\cliente.h
+
+1693169783 source:c:\users\nico_\desktop\parcial_ayed_\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+
+1651638646 c:\users\nico_\desktop\parcial_ayed_\lista.h
+
+1695695011 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 1\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+
+1695694970 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 1\lista.h
+
+1695701670 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"cola.h"
+	"asistentes.h"
+	"estadio.h"
+
+1695693521 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 1\asistentes.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+	"asistentes.h"
+
+1695701685 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 1\estadio.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+	"asistentes.h"
+	"estadio.h"
+
+1695701679 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 1\estadio.h
+	"lista.h"
+
+1695447727 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 1\asistentes.h
+	"lista.h"
+
+1695697571 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 1\cola.c
+	"cola.h"
+	<stdlib.h>
+	<string.h>
+
+1695697513 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 1\cola.h
+

@@ -31,14 +31,14 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="banco.c">
+		<Unit filename="cancion.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="banco.h" />
-		<Unit filename="cliente.c">
+		<Unit filename="cancion.h" />
+		<Unit filename="disco.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="cliente.h" />
+		<Unit filename="disco.h" />
 		<Unit filename="lista.c">
 			<Option compilerVar="CC" />
 		</Unit>
@@ -46,10 +46,6 @@
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="pila.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="pila.h" />
 		<Extensions>
 			<lib_finder disable_auto="1" />
 		</Extensions>

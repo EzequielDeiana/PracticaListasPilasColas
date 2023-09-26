@@ -50,6 +50,7 @@ int main()
     PilaPtr pilaBanco = pilaDeClientes(bancoCopia);
 
     for(int i = 0; i < 4; i++){
+        printf("APILADO:\n\n");
         mostrarCliente(desapilar((ClientePtr)pilaBanco));
     }
 
