@@ -19,4 +19,5 @@ void setPrecio(AsistentePtr a, int precioEntrada);
 
 void destruirAsistente(AsistentePtr a);
 
+
 #endif // ASISTENTE_H_INCLUDED

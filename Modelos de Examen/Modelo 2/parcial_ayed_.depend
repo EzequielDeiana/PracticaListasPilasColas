@@ -54,14 +54,14 @@
 1695447024 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 1\estadio.h
 	"lista.h"
 
-1693169783 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 2\lista.c
+1695703009 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 2\lista.c
 	"lista.h"
 	<stdlib.h>
 	<string.h>
 
-1651638646 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 2\lista.h
+1695702991 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 2\lista.h
 
-1695449837 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 2\arena.c
+1695704522 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 2\arena.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -69,16 +69,17 @@
 	"asistente.h"
 	"arena.h"
 
-1695448251 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 2\main.c
+1695705332 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 2\main.c
 	<stdio.h>
 	<stdlib.h>
 	"lista.h"
+	"pila.h"
 	"asistente.h"
 	"arena.h"
 
-1695448593 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 2\asistente.h
+1695703331 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 2\asistente.h
 
-1695449787 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 2\arena.h
+1695704253 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 2\arena.h
 
 1695449465 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 2\asistente.c
 	<stdio.h>
@@ -86,4 +87,11 @@
 	<string.h>
 	"lista.h"
 	"asistente.h"
+
+1695705617 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 2\pila.c
+	<stdio.h>
+	<stdlib.h>
+	"pila.h"
+
+1695704845 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\modelos de examen\modelo 2\pila.h
 

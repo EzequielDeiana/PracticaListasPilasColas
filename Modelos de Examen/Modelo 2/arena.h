@@ -19,4 +19,14 @@ void setDireccioArena(ArenaPtr a, char nuevaDireccion[20]);
 
 void destruirArena(ArenaPtr a);
 
+Lista getListaArena(ArenaPtr a);
+
+void mostrarAsistentes(Lista lista);
+
+Lista copiarLista(Lista lista);
+
+void ordenarListaAsistentes(ArenaPtr a);
+
+void buscarAsistentes(ArenaPtr a);
+
 #endif // ARENA_H_INCLUDED
