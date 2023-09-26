@@ -10,7 +10,7 @@ CancionPtr crearCancion(char nombre[20], char banda[20], float duracion);
 void mostrarCancion(CancionPtr c);
 
 char* getNombreCancion(CancionPtr c);
-char* getBandaCancion(CancionPtr c)
+char* getBandaCancion(CancionPtr c);
 float getDuracionCancion(CancionPtr c);
 
 void setNombreCancion(CancionPtr c, char nombre[20]);

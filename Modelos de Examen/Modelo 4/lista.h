@@ -28,5 +28,12 @@ int removerFinal(Lista lista, void *backup);
 int remover(Lista lista, int pos, void *backup);
 void liberarlista(Lista lista);
 
+Nodo getPrimerNodo(Lista lista);
+Nodo getUltimoNodo(Lista lista);
+Nodo getSiguienteNodo(Nodo actual);
+void* getDatoNodo(Nodo actual);
+
+void setDatoNodo(Nodo actual, void* dato);
+
 
 #endif

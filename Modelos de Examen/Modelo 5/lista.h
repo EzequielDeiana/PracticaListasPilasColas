@@ -2,8 +2,6 @@
 #define LINKEDlista_H
 
 
-
-
 enum Booleanos {FALSE, TRUE};
 
 

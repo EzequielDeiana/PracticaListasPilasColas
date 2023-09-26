@@ -296,6 +296,22 @@ void liberarlista (Lista lista) {
     lista->tamanio= 0;
 }
 
+Nodo getPrimerNodo(Lista lista){
+    return lista->primero;
+}
 
+Nodo getUltimoNodo(Lista lista){
+    return lista->ultimo;
+}
 
+Nodo getSiguienteNodo(Nodo actual){
+    return actual->proximo;
+}
 
+void* getDatoNodo(Nodo actual){
+    return actual->data;
+}
+
+void setDatoNodo(Nodo actual, void* dato){
+    actual->data = dato;
+}

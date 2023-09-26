@@ -20,4 +20,13 @@ void setPrecioDisco(DiscoPtr d, int precio);
 
 void destruirDisco(DiscoPtr d);
 
+void mostrarCanciones(Lista lista);
+
+Lista getListaDisco(DiscoPtr d);
+
+Lista copiarListaDisco(DiscoPtr d);
+
+void ordenarLista(DiscoPtr d);
+
+void buscarMiembro(DiscoPtr d);
 #endif // DISCO_H_INCLUDED
