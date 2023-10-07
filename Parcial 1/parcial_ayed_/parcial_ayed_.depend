@@ -46,7 +46,7 @@
 
 1695424368 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\parcial 1\parcial_ayed_\lista.h
 
-1695426161 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\parcial 1\parcial_ayed_\main.c
+1695427106 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\parcial 1\parcial_ayed_\main.c
 	<stdio.h>
 	<stdlib.h>
 	"lista.h"
@@ -74,4 +74,12 @@
 
 1695425244 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\parcial 1\parcial_ayed_\pila.h
 	"lista.h"
+
+1696037091 source:d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\parcial 1\parcial_ayed_\arbol.c
+	<stdio.h>
+	<stdlib.h>
+	"arbol.h"
+
+1696037014 d:\estudio universidad\estudio 2023 segundo cuatri\8609 algoritmos y estructuras\tp subido\parcial 1\parcial_ayed_\arbol.h
+	"cliente.h"
 

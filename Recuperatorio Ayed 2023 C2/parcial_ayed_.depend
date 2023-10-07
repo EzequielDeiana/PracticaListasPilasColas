@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1693786723 source:c:\users\nico_\desktop\parcial_ayed_\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1693789388 source:c:\users\nico_\desktop\parcial_ayed_\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"cliente.h"
+	"banco.h"
+
+1693786793 source:c:\users\nico_\desktop\parcial_ayed_\banco.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"banco.h"
+
+1693786793 c:\users\nico_\desktop\parcial_ayed_\banco.h
+
+1693786679 c:\users\nico_\desktop\parcial_ayed_\cliente.h
+
+1693169783 source:c:\users\nico_\desktop\parcial_ayed_\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+
+1651638646 c:\users\nico_\desktop\parcial_ayed_\lista.h
+
+1693786723 source:e:\recuperatorio\parcial_ayed_\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1693786679 e:\recuperatorio\parcial_ayed_\cliente.h
+
+1695762321 source:e:\recuperatorio\parcial_ayed_\lista.c
+	"lista.h"
+	<stdlib.h>
+	<string.h>
+
+1695764522 e:\recuperatorio\parcial_ayed_\lista.h
+
+1695767387 source:e:\recuperatorio\parcial_ayed_\main.c
+	<stdio.h>
+	<stdlib.h>
+	"lista.h"
+	"pila.h"
+	"cliente.h"
+	"banco.h"
+
+1695767313 e:\recuperatorio\parcial_ayed_\banco.h
+	"lista.h"
+	"pila.h"
+
+1695766951 source:e:\recuperatorio\parcial_ayed_\banco.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"banco.h"
+	"lista.h"
+	"cliente.h"
+
+1695766578 source:e:\recuperatorio\parcial_ayed_\pila.c
+	"pila.h"
+	<stdlib.h>
+	<string.h>
+
+1695765837 e:\recuperatorio\parcial_ayed_\pila.h
+
